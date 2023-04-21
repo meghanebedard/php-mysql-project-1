@@ -1,0 +1,42 @@
+#autos {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #autos td, #autos th {
+    padding: 8px;
+    border-bottom: 1px black solid;
+  }
+  
+  #autos th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+  }
+.boite {
+    margin: auto;
+    width: fit-content;
+}
+
+.field {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.trouver {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.center {
+    text-align: center;
+}
+
+.btn {
+    border-radius: 2px;
+    border: solid 1px black;
+    padding: 2px 7px;
+    margin: 20px;
+}
